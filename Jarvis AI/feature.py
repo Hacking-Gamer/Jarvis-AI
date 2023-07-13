@@ -64,7 +64,7 @@ def YoutubeDownload():
 
 
 def wolf(query):
-      api_key= "KQ73WA-Q97LL4Q33E"   
+      api_key= "Your Api Key"   
 
       requester = wolframalpha.Client(api_key)    
       requested = requester.query(query)
